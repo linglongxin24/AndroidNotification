@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sing_icon.jpg",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\drawable-xhdpi\\sing_icon.jpg"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    }
+]

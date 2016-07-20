@@ -1,0 +1,207 @@
+[
+    {
+        "outputFile": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 50,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 50,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 52,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 528,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1082
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1087,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1321
+                    }
+                }
+            }
+        ]
+    }
+]

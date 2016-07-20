@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pause.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\drawable-hdpi\\btn_pause.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_prev.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\drawable-hdpi\\btn_prev.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\drawable-hdpi\\btn_next.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\drawable-hdpi\\btn_play.png"
+    }
+]

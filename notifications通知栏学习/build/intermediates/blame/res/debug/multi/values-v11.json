@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 94,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 95,
+                        "endOffset": 523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 98,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "E:\\kejiang\\AndroidStudioProjects\\Notification\\notifications通知栏学习\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 99,
+                        "endOffset": 424
+                    }
+                }
+            }
+        ]
+    }
+]
